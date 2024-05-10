@@ -1,4 +1,5 @@
 # apnacollege-demo
 this is my first repository
 <br>
-author -syed suhaib
+
+author -syed (apna college)
